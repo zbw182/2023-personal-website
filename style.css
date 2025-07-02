@@ -35,6 +35,11 @@ h3 {
    line-height: 1.25;
    color: #383838;
 }
+
+.gallery-header {
+    padding-left: 5px;
+}
+
 p { 
    font-family: 'Roboto', sans-serif;
    display: block;
@@ -45,10 +50,18 @@ p {
 
 }
 
+.projects-and-photos {
+    line-height: 1.4em;
+}
+
 body { 
    font-size: 13px;
 }
 a {
    text-decoration: underline;
    color: #383838;
+}
+
+.wp-block-spacer {
+    height: 88px;
 }
